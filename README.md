@@ -135,8 +135,6 @@ Shoes-Sales-EDA/
 
 Aspiring Data Analyst passionate about data analytics, visualization, and business intelligence.
 
-🔗 LinkedIn: https://www.linkedin.com/in/deepanshugahlot001
-
-🔗 GitHub: https://github.com/Deepanshugahlot
-
+🔗 LinkedIn: [Deepanshu Gahlot](https://www.linkedin.com/in/deepanshugahlot001)  
+🔗 GitHub: [@Deepanshugahlot](https://github.com/Deepanshugahlot)
 ---
