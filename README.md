@@ -133,7 +133,8 @@ Shoes-Sales-EDA/
 
 **Deepanshu Gahlot**
 
-Aspiring Data Analyst passionate about data analytics, visualization, and business intelligence.
+Aspiring Data Analyst. Currently: learning. Always: improving.
+
 📬 [LinkedIn](https://linkedin.com/in/deepanshugahlot001) · [GitHub](https://github.com/deepanshugahlot)
 
 ---
